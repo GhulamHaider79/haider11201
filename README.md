@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ghulam haider 
 - 👀 I’m interested in web and mobile app develpment 
-- 🌱 I’m currently learning web and mobile app develpment at ASF soft tech center
+- 🌱 I’m currently learning web and mobile app develpment at ASF soft tech center karachi
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at ghulamhaider11201@gmail.com
 
